@@ -12,7 +12,7 @@ References:
 [2] http://www.robots.ox.ac.uk/~vedaldi/code/sift.html
 
 Created by Chaoran Cui (bruincui@gmail.com)  
-homepage: http://ir.sdu.edu.cn/~chaorancui/  
+homepage: http://crcui.sdufe.edu.cn/ 
 If there are any problems, please let me know.
 
 
